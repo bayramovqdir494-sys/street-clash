@@ -1,0 +1,18 @@
+{
+  "note": "Fighters are skinned GLB slots. If a file contains clips named idle, walk, punch, kick, heavy, upper, knife, chain, pipe, block, hit, knockdown, or win, those clips play directly. Otherwise Street Clash retargets the bundled CC0 humanoid clips onto a Mixamo or Ready Player Me skeleton. See README for the Hunyuan3D export path.",
+  "animations": "models/animations/AnimationLibrary_Godot_Standard.gltf",
+  "fighters": {
+    "jax": {
+      "file": "models/fighters/jax.glb",
+      "name": "JAX",
+      "accent": "#3df0ff",
+      "yaw": 0
+    },
+    "rico": {
+      "file": "models/fighters/rico.glb",
+      "name": "RICO",
+      "accent": "#ff3b5c",
+      "yaw": 0
+    }
+  }
+}
